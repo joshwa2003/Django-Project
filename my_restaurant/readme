@@ -1,0 +1,16 @@
+step 1: unzip the file 
+step 2: open in vs code
+step 3: navigate to the my_restaurant directory
+    cmd: cd my_restaurant 
+step 4: then run this commad  
+    cmd: python3 manage.py runserver
+
+the project run in the http://127.0.0.1:8000/ 
+
+
+access the Django administration site 
+
+step 1: go to the url  http://127.0.0.1:8000/admin/ 
+step 2: enter the username and password
+    username: root
+    password: Joshwa010303@
